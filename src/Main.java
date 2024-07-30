@@ -22,7 +22,7 @@ public class Main {
             System.out.println("Установите версию приложения для Android по ссылке");
         } else if (os == 1 && yearProd < currentYear) {
             System.out.println("Установите облегченную версию приложения для Android по ссылке");
-        }
+           }
         }
 
         public static void countDay( int deliveriDistance){
